@@ -10,7 +10,7 @@ const NewsLetter = () => {
         <div className="container pt-2 pb-4">
           <Container>
             <div className="container-fluid mt-3 pb-5">
-              <h1 className="text-center pt-5">Our Clients</h1>
+              <h1 className="text-center pt-5">NewsLetter</h1>
               <p className="text-center">
                 We have a lot of valuable clients throughout the whole world
               </p>
