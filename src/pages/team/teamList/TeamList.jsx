@@ -12,18 +12,21 @@ const TeamList = () => {
                 <Card style={{ width: "100%" }}>
                   <Card.Body>
                     <Card.Title className="d-flex justify-content-center">
-                      <img src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg" alt="employee_img" className="img-fluid" />
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
                     </Card.Title>
                     <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
                       <p className="text-decoration-none text-reset">
-                        International Tour
+                        Md. Wahid Rana
                       </p>
                     </Card.Subtitle>
                     <Card.Text className="">
+                      <p className="text-dark text-center">C.E.O</p>
                       <p className="text-dark text-center">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing
-                        elit. Illum temporibus aut commodi nobis, exercitationem
-                        aperiam facilis minus cumque cum repellat.
+                        Titash Services A2Z Private Limited
                       </p>
                     </Card.Text>
                   </Card.Body>
@@ -37,18 +40,21 @@ const TeamList = () => {
                 <Card style={{ width: "100%" }}>
                   <Card.Body>
                     <Card.Title className="d-flex justify-content-center">
-                      <img src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg" alt="employee_img" className="img-fluid" />
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
                     </Card.Title>
                     <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
                       <p className="text-decoration-none text-reset">
-                        International Tour
+                        Babu Sordar
                       </p>
                     </Card.Subtitle>
                     <Card.Text className="">
+                      <p className="text-dark text-center">Director</p>
                       <p className="text-dark text-center">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing
-                        elit. Illum temporibus aut commodi nobis, exercitationem
-                        aperiam facilis minus cumque cum repellat.
+                        Titash Services A2Z Private Limited
                       </p>
                     </Card.Text>
                   </Card.Body>
@@ -62,18 +68,21 @@ const TeamList = () => {
                 <Card style={{ width: "100%" }}>
                   <Card.Body>
                     <Card.Title className="d-flex justify-content-center">
-                      <img src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg" alt="employee_img" className="img-fluid" />
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
                     </Card.Title>
                     <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
                       <p className="text-decoration-none text-reset">
-                        International Tour
+                        Md kamrul Hasan
                       </p>
                     </Card.Subtitle>
                     <Card.Text className="">
+                      <p className="text-dark text-center">Manager</p>
                       <p className="text-dark text-center">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing
-                        elit. Illum temporibus aut commodi nobis, exercitationem
-                        aperiam facilis minus cumque cum repellat.
+                        Titash Services A2Z Private Limited
                       </p>
                     </Card.Text>
                   </Card.Body>
@@ -87,18 +96,21 @@ const TeamList = () => {
                 <Card style={{ width: "100%" }}>
                   <Card.Body>
                     <Card.Title className="d-flex justify-content-center">
-                      <img src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg" alt="employee_img" className="img-fluid" />
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
                     </Card.Title>
                     <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
                       <p className="text-decoration-none text-reset">
-                        International Tour
+                        Nova
                       </p>
                     </Card.Subtitle>
                     <Card.Text className="">
+                      <p className="text-dark text-center">HR</p>
                       <p className="text-dark text-center">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing
-                        elit. Illum temporibus aut commodi nobis, exercitationem
-                        aperiam facilis minus cumque cum repellat.
+                        Titash Services A2Z Private Limited
                       </p>
                     </Card.Text>
                   </Card.Body>
@@ -112,18 +124,21 @@ const TeamList = () => {
                 <Card style={{ width: "100%" }}>
                   <Card.Body>
                     <Card.Title className="d-flex justify-content-center">
-                      <img src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg" alt="employee_img" className="img-fluid" />
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
                     </Card.Title>
                     <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
                       <p className="text-decoration-none text-reset">
-                        International Tour
+                        Md. Sakib
                       </p>
                     </Card.Subtitle>
                     <Card.Text className="">
+                      <p className="text-dark text-center">Call center executive</p>
                       <p className="text-dark text-center">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing
-                        elit. Illum temporibus aut commodi nobis, exercitationem
-                        aperiam facilis minus cumque cum repellat.
+                        Titash Services A2Z Private Limited
                       </p>
                     </Card.Text>
                   </Card.Body>
@@ -131,7 +146,202 @@ const TeamList = () => {
               </Link>
             </div>
           </Col>
-          
+          <Col xs={12} md={6} lg={3} className="mt-3">
+            <div data-aos="fade-right">
+              <Link to="#" className="text-decoration-none">
+                <Card style={{ width: "100%" }}>
+                  <Card.Body>
+                    <Card.Title className="d-flex justify-content-center">
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
+                    </Card.Title>
+                    <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
+                      <p className="text-decoration-none text-reset">
+                        Aysha
+                      </p>
+                    </Card.Subtitle>
+                    <Card.Text className="">
+                      <p className="text-dark text-center">Call center executive</p>
+                      <p className="text-dark text-center">
+                        Titash Services A2Z Private Limited
+                      </p>
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+              </Link>
+            </div>
+          </Col>
+          <Col xs={12} md={6} lg={3} className="mt-3">
+            <div data-aos="fade-right">
+              <Link to="#" className="text-decoration-none">
+                <Card style={{ width: "100%" }}>
+                  <Card.Body>
+                    <Card.Title className="d-flex justify-content-center">
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
+                    </Card.Title>
+                    <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
+                      <p className="text-decoration-none text-reset">
+                        Anonna
+                      </p>
+                    </Card.Subtitle>
+                    <Card.Text className="">
+                      <p className="text-dark text-center">Call center executive</p>
+                      <p className="text-dark text-center">
+                        Titash Services A2Z Private Limited
+                      </p>
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+              </Link>
+            </div>
+          </Col>
+          <Col xs={12} md={6} lg={3} className="mt-3">
+            <div data-aos="fade-right">
+              <Link to="#" className="text-decoration-none">
+                <Card style={{ width: "100%" }}>
+                  <Card.Body>
+                    <Card.Title className="d-flex justify-content-center">
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
+                    </Card.Title>
+                    <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
+                      <p className="text-decoration-none text-reset">
+                        Bushra
+                      </p>
+                    </Card.Subtitle>
+                    <Card.Text className="">
+                      <p className="text-dark text-center">Call center executive</p>
+                      <p className="text-dark text-center">
+                        Titash Services A2Z Private Limited
+                      </p>
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+              </Link>
+            </div>
+          </Col>
+          <Col xs={12} md={6} lg={3} className="mt-3">
+            <div data-aos="fade-right">
+              <Link to="#" className="text-decoration-none">
+                <Card style={{ width: "100%" }}>
+                  <Card.Body>
+                    <Card.Title className="d-flex justify-content-center">
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
+                    </Card.Title>
+                    <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
+                      <p className="text-decoration-none text-reset">
+                        Shaboni
+                      </p>
+                    </Card.Subtitle>
+                    <Card.Text className="">
+                      <p className="text-dark text-center">Call center executive</p>
+                      <p className="text-dark text-center">
+                        Titash Services A2Z Private Limited
+                      </p>
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+              </Link>
+            </div>
+          </Col>
+          <Col xs={12} md={6} lg={3} className="mt-3">
+            <div data-aos="fade-right">
+              <Link to="#" className="text-decoration-none">
+                <Card style={{ width: "100%" }}>
+                  <Card.Body>
+                    <Card.Title className="d-flex justify-content-center">
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
+                    </Card.Title>
+                    <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
+                      <p className="text-decoration-none text-reset">
+                        Fatema
+                      </p>
+                    </Card.Subtitle>
+                    <Card.Text className="">
+                      <p className="text-dark text-center">Call center executive</p>
+                      <p className="text-dark text-center">
+                        Titash Services A2Z Private Limited
+                      </p>
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+              </Link>
+            </div>
+          </Col>
+          <Col xs={12} md={6} lg={3} className="mt-3">
+            <div data-aos="fade-right">
+              <Link to="#" className="text-decoration-none">
+                <Card style={{ width: "100%" }}>
+                  <Card.Body>
+                    <Card.Title className="d-flex justify-content-center">
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
+                    </Card.Title>
+                    <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
+                      <p className="text-decoration-none text-reset">
+                        Suma
+                      </p>
+                    </Card.Subtitle>
+                    <Card.Text className="">
+                      <p className="text-dark text-center">Call center executive</p>
+                      <p className="text-dark text-center">
+                        Titash Services A2Z Private Limited
+                      </p>
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+              </Link>
+            </div>
+          </Col>
+          <Col xs={12} md={6} lg={3} className="mt-3">
+            <div data-aos="fade-right">
+              <Link to="#" className="text-decoration-none">
+                <Card style={{ width: "100%" }}>
+                  <Card.Body>
+                    <Card.Title className="d-flex justify-content-center">
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
+                    </Card.Title>
+                    <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
+                      <p className="text-decoration-none text-reset">
+                        Riya
+                      </p>
+                    </Card.Subtitle>
+                    <Card.Text className="">
+                      <p className="text-dark text-center">Call center executive</p>
+                      <p className="text-dark text-center">
+                        Titash Services A2Z Private Limited
+                      </p>
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+              </Link>
+            </div>
+          </Col>
         </Row>
       </Container>
     </div>
