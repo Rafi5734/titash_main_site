@@ -26,8 +26,7 @@ const Homepage = () => {
           />
           <div className="centered">
             <h1 className=" fw-bold" style={{ color: "#3268C0" }}>
-              Master in-demand IT skills with we provide comprehensive IT
-              training program
+              It training program.
             </h1>
             <p className="">
               Unlock your potential with our IT training. Whether you{"'"}re a
@@ -46,12 +45,11 @@ const Homepage = () => {
           />
           <div className="centered">
             <h1 className="fw-bold" style={{ color: "#3268C0" }}>
-              We provide both app and web development support
+              Web & App solution
             </h1>
             <p className="">
               Our organization delivered a great web and app product for your
-              business or your getting more market engagement product experience
-              according to your business{"'"}s requirements.
+              business.
             </p>
             <button type="button" className="btn btn-primary btn-lg">
               Read More
@@ -65,13 +63,11 @@ const Homepage = () => {
           />
           <div className="centered">
             <h1 className="fw-bold" style={{ color: "#3268C0" }}>
-              We provide high-quality engagement your social network and media
-              management and marketing.
+              Social network and media marketing.
             </h1>
             <p className="text-white">
               Unleash the power of social media with our expert-led marketing
-              solutions. Elevate your brand and drive meaningful interactions in
-              the digital realm.
+              solutions.
             </p>
             <button type="button" className="btn btn-primary btn-lg">
               Read More
@@ -80,7 +76,7 @@ const Homepage = () => {
         </SwiperSlide>
         <SwiperSlide>
           <img
-            className="slideOne"
+            style={{width: "100%", height: "30vh"}}
             src="https://images.unsplash.com/photo-1551748629-08d916ed6682?q=80&w=2094&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           />
           <div className="centered">
@@ -88,7 +84,7 @@ const Homepage = () => {
               Titash Tours and Travels
             </h1>
             <p className="text-white">
-              Embrace your travel, spend less, Travel more.
+              Embrace your travel, spend less, Travel more. Fly with your dreams and expand your mind and culture.
             </p>
             <button type="button" className="btn btn-primary btn-lg">
               Read More
