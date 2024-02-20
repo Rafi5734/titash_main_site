@@ -15,21 +15,24 @@ import NewsLetter from "../newsLetter/NewsLetter";
 const Homepage = () => {
   return (
     <div>
-      <marquee className="text-danger fw-bold">তিতাশ সার্ভিস A-2-Z লিমিটেড এ আপনাকে স্বাগতম। </marquee>
+      <marquee className="text-danger fw-bold">
+        তিতাশ সার্ভিস A-2-Z লিমিটেড এ আপনাকে স্বাগতম।{" "}
+      </marquee>
       <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
         <SwiperSlide className="slider_container">
           <img
             className="slideOne"
-            src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           />
           <div className="centered">
             <h1 className=" fw-bold" style={{ color: "#3268C0" }}>
-              Explore the world
+              Master in-demand IT skills with we provide comprehensive IT
+              training program
             </h1>
             <p className="">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste,
-              repudiandae? Itaque quis facere quo aspernatur tempore? Ipsam
-              obcaecati suscipit dolorum.
+              Unlock your potential with our IT training. Whether you{"'"}re a
+              beginner or an experienced professional, our courses cater to all
+              skill levels for career growth.
             </p>
             <button type="button" className="btn btn-primary btn-lg">
               Read More
@@ -43,12 +46,85 @@ const Homepage = () => {
           />
           <div className="centered">
             <h1 className="fw-bold" style={{ color: "#3268C0" }}>
-              The world is so butiful
+              We provide both app and web development support
             </h1>
             <p className="">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste,
-              repudiandae? Itaque quis facere quo aspernatur tempore? Ipsam
-              obcaecati suscipit dolorum.
+              Our organization delivered a great web and app product for your
+              business or your getting more market engagement product experience
+              according to your business{"'"}s requirements.
+            </p>
+            <button type="button" className="btn btn-primary btn-lg">
+              Read More
+            </button>
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <img
+            className="slideOne"
+            src="https://images.unsplash.com/photo-1553877522-43269d4ea984?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          />
+          <div className="centered">
+            <h1 className="fw-bold" style={{ color: "#3268C0" }}>
+              We provide high-quality engagement your social network and media
+              management and marketing.
+            </h1>
+            <p className="text-white">
+              Unleash the power of social media with our expert-led marketing
+              solutions. Elevate your brand and drive meaningful interactions in
+              the digital realm.
+            </p>
+            <button type="button" className="btn btn-primary btn-lg">
+              Read More
+            </button>
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <img
+            className="slideOne"
+            src="https://images.unsplash.com/photo-1551748629-08d916ed6682?q=80&w=2094&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          />
+          <div className="centered">
+            <h1 className="fw-bold" style={{ color: "#3268C0" }}>
+              Titash Tours and Travels
+            </h1>
+            <p className="text-white">
+              Embrace your travel, spend less, Travel more.
+            </p>
+            <button type="button" className="btn btn-primary btn-lg">
+              Read More
+            </button>
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <img
+            className="slideOne"
+            src="https://images.unsplash.com/photo-1676607185258-fc3cfc097bcf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          />
+          <div className="centered">
+            <h1 className="fw-bold" style={{ color: "#3268C0" }}>
+              Umrah Hajj services
+            </h1>
+            <p className="text-white">
+              Hajj in the Modern World: Bridging Tradition and Contemporary
+              Challenges
+            </p>
+            <button type="button" className="btn btn-primary btn-lg">
+              Read More
+            </button>
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <img
+            className="slideOne"
+            src="https://images.unsplash.com/flagged/photo-1570343271132-8949dd284a04?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          />
+          <div className="centered">
+            <h1 className="fw-bold" style={{ color: "#3268C0" }}>
+              Security services
+            </h1>
+            <p className="text-black">
+              Securing your peace of mind. Our professional security team is
+              dedicated to safeguarding your property and assets 24/7.
             </p>
             <button type="button" className="btn btn-primary btn-lg">
               Read More
@@ -63,7 +139,7 @@ const Homepage = () => {
       <Team />
       <LatestNews />
       <OurClients />
-      <NewsLetter/>
+      <NewsLetter />
     </div>
   );
 };
