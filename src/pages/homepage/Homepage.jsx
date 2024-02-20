@@ -16,7 +16,7 @@ const Homepage = () => {
   return (
     <div>
       <marquee className="text-danger fw-bold">
-        তিতাশ সার্ভিস A-2-Z লিমিটেড এ আপনাকে স্বাগতম।{" "}
+        তিতাশ সার্ভিস A-2-Z প্রাইভেট লিমিটেড এ আপনাকে স্বাগতম।{" "}
       </marquee>
       <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
         <SwiperSlide className="slider_container">
