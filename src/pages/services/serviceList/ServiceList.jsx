@@ -13,10 +13,13 @@ const ServiceList = () => {
                   <Card.Body>
                     <Card.Title className="d-flex justify-content-center">
                       <svg
+                        fill="#000000"
+                        version="1.1"
+                        id="Layer_1"
+                        xmlns="http://www.w3.org/2000/svg"
+                        viewBox="0 0 32 32"
                         width="64px"
                         height="64px"
-                        viewBox="0 0 24 24"
-                        fill="none"
                       >
                         <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
                         <g
@@ -27,25 +30,29 @@ const ServiceList = () => {
                         <g id="SVGRepo_iconCarrier">
                           {" "}
                           <path
-                            d="M12 6H12.01M9 20L3 17V4L5 5M9 20L15 17M9 20V14M15 17L21 20V7L19 6M15 17V14M15 6.2C15 7.96731 13.5 9.4 12 11C10.5 9.4 9 7.96731 9 6.2C9 4.43269 10.3431 3 12 3C13.6569 3 15 4.43269 15 6.2Z"
-                            stroke="#000000"
-                            strokeWidth="2"
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
+                            id="it--infrastructure-software_1_"
+                            d="M22.5,4.5C22.5,4.776,22.276,5,22,5s-0.5-0.224-0.5-0.5S21.724,4,22,4 S22.5,4.224,22.5,4.5z M20,4c-0.276,0-0.5,0.224-0.5,0.5S19.724,5,20,5s0.5-0.224,0.5-0.5S20.276,4,20,4z M18,4 c-0.276,0-0.5,0.224-0.5,0.5S17.724,5,18,5s0.5-0.224,0.5-0.5S18.276,4,18,4z M30,29.36h-8c-0.199,0-0.36-0.161-0.36-0.36v-4 c0-0.199,0.161-0.36,0.36-0.36h3.64v-3.28h-9.28v3.279H20c0.199,0,0.36,0.161,0.36,0.36v4c0,0.199-0.161,0.36-0.36,0.36h-8 c-0.199,0-0.36-0.161-0.36-0.36v-4c0-0.199,0.161-0.36,0.36-0.36h3.64V21.36H6.36v3.279H10c0.199,0,0.36,0.161,0.36,0.36v4 c0,0.199-0.161,0.36-0.36,0.36H2c-0.199,0-0.36-0.161-0.36-0.36v-4c0-0.199,0.161-0.36,0.36-0.36h3.64V21 c0-0.199,0.161-0.36,0.36-0.36h9.64v-4.28H8c-0.199,0-0.36-0.161-0.36-0.36V3c0-0.199,0.161-0.36,0.36-0.36h16 c0.199,0,0.36,0.161,0.36,0.36v13c0,0.199-0.161,0.36-0.36,0.36h-7.64v4.28H26c0.199,0,0.36,0.161,0.36,0.36v3.64H30 c0.199,0,0.36,0.161,0.36,0.36v4C30.36,29.199,30.199,29.36,30,29.36z M22.36,28.64h7.279v-3.28H22.36V28.64z M12.36,28.64h7.28 v-3.28h-7.28C12.36,25.36,12.36,28.64,12.36,28.64z M2.36,28.64h7.28v-3.28H2.36V28.64z M8.36,15.64h15.28V6.36H8.36V15.64z M8.36,5.64h15.28V3.36H8.36V5.64z M25,27.36h-2v-0.72h2V27.36z M15,27.36h-2v-0.72h2V27.36z M5,27.36H3v-0.72h2V27.36z"
                           ></path>{" "}
+                          <rect
+                            id="_Transparent_Rectangle"
+                            // style="fill:none;"
+                            style={{ fill: "none" }}
+                            width="32"
+                            height="32"
+                          ></rect>{" "}
                         </g>
                       </svg>
                     </Card.Title>
                     <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
                       <p className="text-decoration-none text-reset">
-                        International Tour
+                        It training and support
                       </p>
                     </Card.Subtitle>
                     <Card.Text className="">
                       <p className="text-dark">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing
-                        elit. Illum temporibus aut commodi nobis, exercitationem
-                        aperiam facilis minus cumque cum repellat.
+                        Navigate the complexities of IT confidently with our
+                        immersive training program. From software development to
+                        networking, we pave your path to success.
                       </p>
                     </Card.Text>
                   </Card.Body>
@@ -62,7 +69,50 @@ const ServiceList = () => {
                       width="64px"
                       height="64px"
                       viewBox="0 0 24 24"
-                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="#000000"
+                    >
+                      <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
+                      <g
+                        id="SVGRepo_tracerCarrier"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      ></g>
+                      <g id="SVGRepo_iconCarrier">
+                        <path d="M17.476 0H7.524A1.524 1.524 0 0 0 6 1.524v19.952A1.524 1.524 0 0 0 7.524 23h9.952A1.524 1.524 0 0 0 19 21.476V1.524A1.524 1.524 0 0 0 17.476 0zM18 21.477a.524.524 0 0 1-.524.523H14v-1h-3v1H7.524A.524.524 0 0 1 7 21.477V20h11zM18 19H7V3h11zm0-17H7v-.477A.524.524 0 0 1 7.524 1h9.952a.524.524 0 0 1 .524.523zm-7.8 5.7v7.6l6-3.8zm.8 1.453l3.705 2.347L11 13.847z"></path>
+                        <path fill="none" d="M0 0h24v24H0z"></path>
+                      </g>
+                    </svg>
+                  </Card.Title>
+                  <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
+                    <p className="text-decoration-none text-reset">
+                      Web and App development
+                    </p>
+                  </Card.Subtitle>
+                  <Card.Text className="">
+                    <p className="text-dark">
+                      In the dynamic realm of the digital age, the synergy
+                      between web and app development has become instrumental in
+                      shaping the online presence of businesses, fostering user
+                      engagement, and driving overall success.
+                    </p>
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </Link>
+          </Col>
+          <Col xs={12} md={6} lg={4} className="mt-3">
+            <Link to="#" className="text-decoration-none">
+              <Card style={{ width: "100%" }}>
+                <Card.Body>
+                  <Card.Title className="d-flex justify-content-center">
+                    <svg
+                      fill="#000000"
+                      version="1.1"
+                      id="Capa_1"
+                      width="64px"
+                      height="64px"
+                      viewBox="0 0 76.609 76.609"
                     >
                       <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
                       <g
@@ -72,26 +122,97 @@ const ServiceList = () => {
                       ></g>
                       <g id="SVGRepo_iconCarrier">
                         {" "}
-                        <path
-                          d="M12 6H12.01M9 20L3 17V4L5 5M9 20L15 17M9 20V14M15 17L21 20V7L19 6M15 17V14M15 6.2C15 7.96731 13.5 9.4 12 11C10.5 9.4 9 7.96731 9 6.2C9 4.43269 10.3431 3 12 3C13.6569 3 15 4.43269 15 6.2Z"
-                          stroke="#000000"
-                          strokeWidth="2"
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                        ></path>{" "}
+                        <g>
+                          {" "}
+                          <g>
+                            {" "}
+                            <path d="M57.455,16.575c0,1.12,1.121,2.24,2.688,2.24c2.239,0,2.911-0.896,2.911-2.24c0-0.224,0-0.224,0-0.447 c-0.223-0.672-0.896-1.12-1.566-1.568c-0.225,0-0.672-0.224-1.119-0.224C58.799,14.337,57.455,15.232,57.455,16.575z"></path>{" "}
+                            <path d="M62.16,9.183c-0.226-1.344-1.121-2.464-2.24-2.464c-1.121,0-1.793,1.12-1.567,2.464c0.226,1.344,1.119,2.464,2.239,2.464 C61.488,11.647,62.383,10.527,62.16,9.183z"></path>{" "}
+                            <path d="M52.08,25.983l3.808-3.808c2.239,1.792,4.93,2.912,7.841,2.912c6.943,0,12.544-5.601,12.544-12.544 C76.271,5.599,70.672,0,63.728,0c-6.942,0-12.544,5.6-12.544,12.544c0,3.136,1.119,5.823,2.912,7.84l-3.809,3.809 C50.959,24.864,51.631,25.537,52.08,25.983z M65.744,8.511h2.463V6.048h0.896v2.464h2.465v0.896h-2.465v2.465h-0.896V9.407h-2.463 V8.511L65.744,8.511z M60.144,12.767c0-0.224,0-0.448,0.226-0.672c-0.226,0-0.226,0-0.447,0c-1.793,0-3.137-1.344-3.137-2.912 s1.791-2.912,3.584-2.912H64.4l-0.896,0.672H62.16c0.896,0.225,1.344,1.345,1.344,2.464c0,0.896-0.448,1.568-1.121,2.24 c-0.672,0.448-0.896,0.672-0.896,1.12c0,0.448,0.673,1.12,1.12,1.344c1.119,0.672,1.344,1.568,1.344,2.688 c0,1.567-1.344,2.912-4.031,2.912c-2.239,0-4.256-0.896-4.256-2.464s1.791-2.912,4.031-2.912c0.225,0,0.447,0,0.672,0 C60.367,13.664,60.144,13.216,60.144,12.767z"></path>{" "}
+                            <path d="M63.728,51.52c-2.911,0-5.823,1.119-7.841,2.912l-3.807-3.809c-0.449,0.672-1.121,1.118-1.568,1.566l3.809,3.809 c-1.792,2.238-2.912,4.929-2.912,7.841c0,6.943,5.602,12.544,12.545,12.544c6.942,0,12.545-5.601,12.545-12.544 C76.271,56.895,70.672,51.52,63.728,51.52z M60.144,69.664H57.68v-7.841h2.464V69.664z M59.024,60.705L59.024,60.705 c-0.896,0-1.567-0.673-1.567-1.346c0-0.672,0.672-1.344,1.567-1.344s1.567,0.672,1.567,1.344 C60.367,60.256,59.92,60.705,59.024,60.705z M70.224,69.664h-2.912v-4.031c0-1.119-0.447-1.792-1.345-1.792 c-0.672,0-1.119,0.448-1.344,0.896c0,0.227,0,0.449,0,0.673v4.257h-2.688c0,0,0-7.168,0-7.841h2.688v1.12 c0.225-0.447,1.121-1.344,2.465-1.344c1.791,0,3.136,1.119,3.136,3.584V69.664L70.224,69.664z"></path>{" "}
+                            <path d="M24.304,50.625l-3.808,3.809c-2.24-1.793-4.928-2.912-7.84-2.912c-6.944,0-12.544,5.602-12.544,12.543 c0,6.944,5.6,12.545,12.544,12.545c6.943,0,12.544-5.601,12.544-12.545c0-2.912-1.12-5.823-2.912-7.84l3.808-3.809 C25.424,51.743,24.752,51.07,24.304,50.625z M18.033,62.048c0,3.808-2.912,8.063-8.064,8.063c-1.567,0-3.136-0.448-4.256-1.346 c0.224,0,0.448,0,0.672,0c1.344,0,2.464-0.447,3.584-1.119c-1.12,0-2.24-0.896-2.688-2.017c0.224,0,0.447,0,0.447,0 c0.225,0,0.448,0,0.673,0c-1.345-0.226-2.24-1.344-2.24-2.688l0,0c0.448,0.225,0.896,0.447,1.344,0.447 c-0.672-0.447-1.344-1.344-1.344-2.24c0-0.446,0.224-0.896,0.448-1.344c1.344,1.793,3.359,2.912,5.823,2.912 c0-0.226,0-0.447,0-0.672c0-1.568,1.345-2.912,2.912-2.912c0.896,0,1.568,0.447,2.017,0.896c0.672-0.225,1.344-0.448,1.792-0.672 c-0.225,0.672-0.673,1.119-1.345,1.566c0.672,0,1.12-0.225,1.568-0.447c-0.448,0.672-0.896,1.119-1.344,1.344 C18.033,61.823,18.033,61.823,18.033,62.048z"></path>{" "}
+                            <path d="M12.656,25.088c2.912,0,5.823-1.12,7.84-2.912l3.808,3.808c0.448-0.672,1.12-1.119,1.568-1.567l-3.809-3.808 c1.792-2.24,2.912-4.928,2.912-7.84c0-6.944-5.6-12.544-12.544-12.544c-6.943,0-12.319,5.6-12.319,12.544 C0.112,19.487,5.712,25.088,12.656,25.088z M9.744,10.527h1.344V9.183c0-1.792,0.672-2.912,2.912-2.912h1.792v2.24h-1.12 c-0.896,0-0.896,0.224-0.896,0.896v1.12h2.016l-0.224,2.24H13.55v6.272h-2.688v-6.272H9.519v-2.24H9.744z"></path>{" "}
+                            <g>
+                              {" "}
+                              <path d="M49.617,44.575c-0.226-0.446-0.673-0.673-0.896-0.673c-2.016-0.672-3.807-1.118-5.823-1.791 c-0.224,0-0.672-0.447-0.672-1.344c0-0.449,0-0.673-0.447-0.673c-0.226,0,0,0-0.226-0.224c-0.223-0.896-0.223-1.345-0.223-1.568 c0-0.223,0.223-0.225,0.223-0.448c0.673-0.896,0.896-2.239,0.896-2.688c0,0,0.225,0,0.225-0.225 c0.224-0.448,0.224-0.448,0.224-1.121c0.226-0.446,0.226-1.118-0.224-1.118c-0.225,0.224-0.225,0-0.225-0.448v-2.688 c0-0.896-0.673-1.567-1.119-1.791c-0.674-0.449-0.896-0.673-1.121-0.673c-0.225-0.224-0.225-0.448,0-0.672 c0.224-0.223,0.447-0.223,0.447-0.448c0,0,0,0-0.225,0s-1.567,0.226-2.239,0.448c-1.12,0.224-2.24,0.672-3.137,1.345 c-0.672,0.447-1.12,1.119-1.12,2.017c0,0.446,0,1.791,0,2.688c0,0.226,0,0.448-0.224,0.226c-0.672,0-0.224,0.896-0.224,1.118 c0,0.448,0.224,0.673,0.447,1.121c0,0.225,0.225,0.225,0.225,0.225c0.224,0.672,0.448,2.016,0.896,2.688 c0,0,0.225,0.225,0.225,0.448c0,0.448,0,1.12-0.225,1.568c0,0,0,0.225-0.224,0.225c-0.448,0-0.448,0.224-0.448,0.672 c0,0.672-0.448,1.345-0.672,1.345c-1.12,0.446-4.479,1.567-5.6,1.791c-0.672,0.226-0.896,0.448-1.12,0.672l-1.12,2.688 c4.479,0,6.72,2.688,11.424,3.584h2.24c4.704-0.672,8.063-3.584,11.2-3.584L49.617,44.575z"></path>{" "}
+                            </g>{" "}
+                          </g>{" "}
+                        </g>{" "}
                       </g>
                     </svg>
                   </Card.Title>
                   <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
                     <p className="text-decoration-none text-reset">
-                      International Tour
+                      Social media marketing
                     </p>
                   </Card.Subtitle>
                   <Card.Text className="">
                     <p className="text-dark">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                      Illum temporibus aut commodi nobis, exercitationem aperiam
-                      facilis minus cumque cum repellat.
+                      Social media marketing is a dynamic and strategic approach
+                      to promoting products, services, or brands through social
+                      media platforms. Leveraging the widespread influence of
+                      platforms like Facebook, Instagram, Twitter, and LinkedIn,
+                      businesses can connect with their target audience, build
+                      brand awareness.
+                    </p>
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </Link>
+          </Col>
+          <Col xs={12} md={6} lg={4} className="mt-3">
+            <Link to="#" className="text-decoration-none">
+              <Card style={{ width: "100%" }}>
+                <Card.Body>
+                  <Card.Title className="d-flex justify-content-center">
+                    <svg
+                      height="64px"
+                      width="64px"
+                      version="1.1"
+                      id="_x32_"
+                      viewBox="0 0 512 512"
+                      fill="#000000"
+                    >
+                      <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
+                      <g
+                        id="SVGRepo_tracerCarrier"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      ></g>
+                      <g id="SVGRepo_iconCarrier">
+                        {" "}
+                        <style type="text/css"> </style>{" "}
+                        <g>
+                          {" "}
+                          <path
+                            className="st0"
+                            d="M286.105,88.898c-100.217,0.008-181.43,81.222-181.438,181.438c0.008,100.225,81.222,181.438,181.438,181.446 c100.225-0.008,181.439-81.222,181.446-181.446C467.544,170.119,386.33,88.906,286.105,88.898z M179.43,163.661 c10.19-10.181,21.832-18.91,34.562-25.85c-6.736,10.316-12.612,21.932-17.518,34.646h-25.04 C174.01,169.444,176.627,166.463,179.43,163.661z M153.741,197.944h34.714c-4.795,18.48-7.623,38.589-8.501,59.644h-44.06 C137.7,236.103,143.897,215.901,153.741,197.944z M153.757,342.736c-9.86-17.966-16.057-38.168-17.864-59.661h43.883 c0.877,21.106,3.849,41.164,8.661,59.661H153.757z M179.43,377.01c-2.802-2.802-5.419-5.774-7.986-8.788h25.04 c3.554,9.219,7.581,17.888,12.089,25.875c1.748,3.072,3.614,5.951,5.496,8.814C201.295,395.963,189.645,387.225,179.43,377.01z M273.366,420.555c-1.266-0.101-2.542-0.16-3.808-0.304c-4.153-1.706-8.282-3.96-12.393-7.024 c-12.333-9.16-24.043-24.752-33.109-45.005h49.31V420.555z M273.366,342.736h-58.445c-5.26-18-8.518-38.184-9.481-59.661h67.926 V342.736z M273.366,257.588h-68.112c0.963-21.468,4.34-41.644,9.582-59.644h58.53V257.588z M273.366,172.458h-49.243 c2.094-4.677,4.28-9.176,6.644-13.339c7.801-13.837,16.944-24.617,26.398-31.674c4.112-3.057,8.24-5.302,12.385-7.008 c1.266-0.143,2.55-0.202,3.816-0.312V172.458z M418.478,197.944c9.844,17.957,16.04,38.159,17.846,59.644h-43.89 c-0.878-21.097-3.85-41.146-8.662-59.644H418.478z M392.788,163.661c2.803,2.802,5.42,5.783,7.995,8.797h-25.056 c-3.546-9.219-7.582-17.889-12.098-25.884c-1.739-3.064-3.613-5.943-5.479-8.814C370.906,144.716,382.565,153.454,392.788,163.661z M298.844,120.125c1.266,0.11,2.549,0.169,3.816,0.312c4.136,1.706,8.274,3.951,12.384,7.008 c12.343,9.159,24.044,24.769,33.119,45.013h-49.319V120.125z M298.844,197.944h58.453c5.252,17.999,8.51,38.184,9.472,59.644 h-67.925V197.944z M341.451,381.552c-7.809,13.837-16.952,24.626-26.407,31.675c-4.11,3.064-8.248,5.318-12.393,7.024 c-1.266,0.144-2.541,0.202-3.807,0.304v-52.333h49.252C345.993,372.89,343.816,377.399,341.451,381.552z M298.844,342.736v-59.661 h68.111c-0.962,21.477-4.339,41.662-9.582,59.661H298.844z M392.788,377.01c-10.19,10.198-21.831,18.919-34.562,25.85 c6.728-10.307,12.604-21.924,17.509-34.638h25.038C398.208,371.236,395.591,374.208,392.788,377.01z M418.46,342.736h-34.705 c4.803-18.472,7.623-38.581,8.501-59.661h44.068C434.518,304.568,428.322,324.77,418.46,342.736z"
+                          ></path>{" "}
+                          <path
+                            className="st0"
+                            d="M401.652,459.001c-36.09,22.101-75.928,32.604-115.328,32.604c-74.477-0.008-147.146-37.567-188.884-105.721 c-22.102-36.09-32.604-75.929-32.604-115.329c0.009-74.485,37.568-147.129,105.73-188.884L159.92,64.288 C85.503,109.868,44.432,189.274,44.449,270.555c-0.009,43.022,11.506,86.626,35.608,125.974 C125.628,470.93,205.043,512.009,286.324,512c43.021,0,86.625-11.506,125.982-35.608l-10.654-17.382V459.001z"
+                          ></path>{" "}
+                          <path
+                            className="st0"
+                            d="M244.587,69.818h95.387c9.818,0,17.787-3.317,17.787-13.152c0-9.819-18.8-19.333-28.618-19.333h-19.704 l-40.1-36.099c-2.009-2.22-9.97-0.768-12.384-0.759c-2.98,0.017-2.33,4.778-1.182,7.547l11.718,29.311h-28.062l-15.39-24.448 c-2.702-2.946-6.932-3.942-10.654-2.499c-3.732,1.444-6.188,5.032-6.188,9.025l-0.253,17.922v5.293 C206.943,57.644,224.993,69.818,244.587,69.818z"
+                          ></path>{" "}
+                        </g>{" "}
+                      </g>
+                    </svg>
+                  </Card.Title>
+                  <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
+                    <p className="text-decoration-none text-reset">
+                      Tours & Travels & Visa processing
+                    </p>
+                  </Card.Subtitle>
+                  <Card.Text className="">
+                    <p className="text-dark">
+                      Tour and travel services open the door to unforgettable
+                      experiences and seamless adventures. Whether it{"'"}s
+                      exploring exotic destinations, embarking on cultural
+                      journeys, or planning relaxing getaways, tour and travel
+                      companies curate tailored experiences for individuals and
+                      groups
                     </p>
                   </Card.Text>
                 </Card.Body>
@@ -106,8 +227,12 @@ const ServiceList = () => {
                     <svg
                       width="64px"
                       height="64px"
-                      viewBox="0 0 24 24"
-                      fill="none"
+                      viewBox="0 0 36 36"
+                      aria-hidden="true"
+                      role="img"
+                      className="iconify iconify--twemoji"
+                      preserveAspectRatio="xMidYMid meet"
+                      fill="#000000"
                     >
                       <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
                       <g
@@ -116,27 +241,49 @@ const ServiceList = () => {
                         strokeLinejoin="round"
                       ></g>
                       <g id="SVGRepo_iconCarrier">
-                        {" "}
                         <path
-                          d="M12 6H12.01M9 20L3 17V4L5 5M9 20L15 17M9 20V14M15 17L21 20V7L19 6M15 17V14M15 6.2C15 7.96731 13.5 9.4 12 11C10.5 9.4 9 7.96731 9 6.2C9 4.43269 10.3431 3 12 3C13.6569 3 15 4.43269 15 6.2Z"
-                          stroke="#000000"
-                          strokeWidth="2"
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                        ></path>{" "}
+                          fill="#F4900C"
+                          d="M23 4.326c0 4.368-9.837 6.652-9.837 13.206c0 2.184 1.085 4.468 2.177 4.468h15.291c1.093 0 2.192-2.284 2.192-4.468C32.823 10.977 23 8.694 23 4.326z"
+                        ></path>
+                        <path
+                          fill="#FFD983"
+                          d="M35 33.815C35 35.022 34.711 36 32.815 36h-19.66C11.26 36 11 35.022 11 33.815V22.894c0-1.206.26-1.894 2.156-1.894h19.66c1.895 0 2.184.688 2.184 1.894v10.921z"
+                        ></path>
+                        <path
+                          fill="#FFD983"
+                          d="M23 34a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1a2 2 0 0 1 2-2h18a2 2 0 0 1 2 2v1z"
+                        ></path>
+                        <path
+                          fill="#662113"
+                          d="M26 29c0-3-1.896-5-3-5s-3 2-3 5v7h6v-7zm-8 2.333c0-2-1.264-3.333-2-3.333s-2 1.333-2 3.333V36h4v-4.667zm14 0c0-2-1.264-3.333-2-3.333s-2 1.333-2 3.333V36h4v-4.667z"
+                        ></path>
+                        <path
+                          fill="#FFD983"
+                          d="M9 34a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v26z"
+                        ></path>
+                        <path
+                          fill="#F4900C"
+                          d="M5.995.326c0 1.837-2.832 2.918-2.832 5.675c0 .919.312 2 .627 2h4.402c.314 0 .631-1.081.631-2c0-2.757-2.828-3.838-2.828-5.675z"
+                        ></path>
+                        <path
+                          fill="#FFAC33"
+                          d="M10 12a1 1 0 0 1-1 1H3a1 1 0 0 1 0-2h6a1 1 0 0 1 1 1zm0-4a1 1 0 0 1-1 1H3a1 1 0 0 1 0-2h6a1 1 0 0 1 1 1z"
+                        ></path>
                       </g>
                     </svg>
                   </Card.Title>
                   <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
                     <p className="text-decoration-none text-reset">
-                      International Tour
+                      Umrah Hajj
                     </p>
                   </Card.Subtitle>
                   <Card.Text className="">
                     <p className="text-dark">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                      Illum temporibus aut commodi nobis, exercitationem aperiam
-                      facilis minus cumque cum repellat.
+                      Umrah and Hajj are two significant pilgrimages in Islam,
+                      each holding a distinct place in the hearts of Muslims
+                      worldwide. Umrah is a pilgrimage that can be undertaken at
+                      any time of the year, unlike Hajj, which has specific
+                      dates during the Islamic month of Dhu al-Hijjah.
                     </p>
                   </Card.Text>
                 </Card.Body>
@@ -149,10 +296,12 @@ const ServiceList = () => {
                 <Card.Body>
                   <Card.Title className="d-flex justify-content-center">
                     <svg
-                      width="64px"
                       height="64px"
-                      viewBox="0 0 24 24"
-                      fill="none"
+                      width="64px"
+                      version="1.1"
+                      id="_x32_"
+                      viewBox="0 0 512 512"
+                      fill="#000000"
                     >
                       <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
                       <g
@@ -162,116 +311,30 @@ const ServiceList = () => {
                       ></g>
                       <g id="SVGRepo_iconCarrier">
                         {" "}
-                        <path
-                          d="M12 6H12.01M9 20L3 17V4L5 5M9 20L15 17M9 20V14M15 17L21 20V7L19 6M15 17V14M15 6.2C15 7.96731 13.5 9.4 12 11C10.5 9.4 9 7.96731 9 6.2C9 4.43269 10.3431 3 12 3C13.6569 3 15 4.43269 15 6.2Z"
-                          stroke="#000000"
-                          strokeWidth="2"
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                        ></path>{" "}
+                        <style type="text/css"> </style>{" "}
+                        <g>
+                          {" "}
+                          <path
+                            className="st0"
+                            d="M429.823,409.401c-11.741-17.577-29.574-27.295-46.322-33.618c-8.41-3.157-16.624-5.492-23.859-7.474 c-7.227-1.965-13.508-3.618-17.725-5.213c-7.384-2.738-15.186-6.289-20.628-10.112c-2.722-1.899-4.81-3.856-6.027-5.517 c-1.225-1.702-1.562-2.878-1.578-3.906c0-7.103,0-15.974,0-27.666c9.447-10.508,23.021-26.794,28.595-52.618 c1.949-0.88,3.873-1.875,5.731-3.166c4.62-3.19,8.542-7.819,11.864-14.116c3.346-6.323,6.306-14.405,9.463-25.463 c1.603-5.607,2.343-10.474,2.343-14.815c0.008-4.999-1.028-9.332-2.911-12.85c-2.482-4.678-6.29-7.457-9.701-9.002l7.703-11.478 v-12.727c0.732-0.995,1.2-1.908,1.085-2.631v-27.567l19.6-39.184c4.966-9.932,1.127-22.018-8.666-27.263L265.693,2.43 c-6.05-3.24-13.327-3.24-19.378,0L133.21,63.015c-9.784,5.245-13.624,17.331-8.657,27.263l19.6,39.209v27.543 c-0.123,0.748,0.288,1.66,1.085,2.696v12.662l7.704,11.46c-0.798,0.354-1.62,0.757-2.467,1.275 c-2.664,1.644-5.352,4.218-7.235,7.745c-1.883,3.519-2.919,7.851-2.91,12.85c0,4.341,0.74,9.208,2.343,14.815 c4.226,14.726,8.041,24.238,12.982,31.218c2.475,3.461,5.287,6.24,8.345,8.361c1.858,1.29,3.783,2.286,5.731,3.166 c5.574,25.824,19.148,42.111,28.595,52.618c0,11.692,0,20.562,0,27.666c0,0.872-0.354,2.13-1.702,3.93 c-1.989,2.672-6.108,5.912-11,8.657c-4.876,2.771-10.483,5.18-15.391,6.907c-5.764,2.047-15.054,4.168-25.455,7.153 c-15.629,4.522-34.111,11.033-49.149,23.925c-7.506,6.446-14.092,14.544-18.729,24.607c-4.636,10.056-7.301,22.01-7.292,35.986 c0,3.248,0.14,6.602,0.428,10.072c0.222,2.434,1.142,4.407,2.236,6.034c2.064,3.042,4.81,5.295,8.246,7.622 c6.019,3.979,14.364,7.876,25.043,11.699c31.958,11.396,84.881,21.829,150.449,21.846c53.268,0,98.232-6.914,130.329-15.605 c16.057-4.349,28.875-9.118,38.141-13.878c4.646-2.393,8.394-4.768,11.37-7.358c1.488-1.316,2.795-2.688,3.889-4.325 c1.094-1.627,2.015-3.6,2.228-6.034c0.288-3.461,0.428-6.816,0.428-10.046C442.419,436.114,437.633,421.093,429.823,409.401z M231.936,137.544c0-13.294,10.77-24.065,24.073-24.065c13.286,0,24.056,10.77,24.056,24.065v2.31 c0,13.287-10.77,24.065-24.056,24.065c-13.303,0-24.073-10.778-24.073-24.065V137.544z M236.466,460.639l-54.806-86.517 c4.991-2.088,10.104-4.727,14.84-7.777l31.366,45.104l15.128-28.455L236.466,460.639z M227.117,398.837l-25.273-36.332 c2.31-1.891,4.505-3.897,6.306-6.256c2.54-3.33,4.472-7.49,4.596-12.218l35.386,15.276L227.117,398.837z M212.795,336.887 c0-6.462,0-14.142,0-23.761v-2.77l-1.858-2.072c-9.874-10.993-23.234-25.586-27.871-51.516l-0.732-4.144l-3.955-1.414 c-2.524-0.896-4.439-1.817-6.116-2.984c-2.475-1.743-4.72-4.127-7.342-9.011c-2.59-4.86-5.328-12.119-8.328-22.65 c-1.324-4.604-1.792-8.181-1.792-10.845c0.008-3.083,0.6-4.884,1.2-6.026c0.913-1.653,2.032-2.36,3.454-2.936 c0.642-0.246,1.29-0.378,1.842-0.468l14.873,22.157l6.363-37.285l0.699-2.336c19.42,6.159,44.644,11.1,72.779,11.1 c28.06,0,53.366-4.9,72.794-11.041l0.674,2.277l6.364,37.285l14.873-22.141c0.937,0.148,2.195,0.46,3.166,1.102 c0.83,0.535,1.504,1.151,2.121,2.286c0.6,1.142,1.192,2.943,1.209,6.026c0,2.664-0.477,6.24-1.792,10.845 c-3.988,14.059-7.564,22.231-10.853,26.77c-1.644,2.293-3.149,3.724-4.818,4.892c-1.677,1.168-3.592,2.089-6.116,2.984 l-3.963,1.414l-0.724,4.144c-4.636,25.93-17.998,40.524-27.871,51.516l-1.858,2.072v2.77c0,9.62,0,17.299,0,23.761l-43.204,18.655 L212.795,336.887z M299.262,344.031c0.107,4.572,1.883,8.707,4.342,12.012c1.841,2.483,4.053,4.636,6.47,6.585l-25.191,36.208 l-21.006-39.53L299.262,344.031z M275.543,460.655l-6.528-77.653l15.12,28.447l31.308-45.022c1.044,0.667,2.089,1.324,3.182,1.949 c3.789,2.154,7.794,3.98,11.798,5.664L275.543,460.655z"
+                          ></path>{" "}
+                        </g>{" "}
                       </g>
                     </svg>
                   </Card.Title>
                   <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
                     <p className="text-decoration-none text-reset">
-                      International Tour
+                      Security Services
                     </p>
                   </Card.Subtitle>
                   <Card.Text className="">
                     <p className="text-dark">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                      Illum temporibus aut commodi nobis, exercitationem aperiam
-                      facilis minus cumque cum repellat.
-                    </p>
-                  </Card.Text>
-                </Card.Body>
-              </Card>
-            </Link>
-          </Col>
-          <Col xs={12} md={6} lg={4} className="mt-3">
-            <Link to="#" className="text-decoration-none">
-              <Card style={{ width: "100%" }}>
-                <Card.Body>
-                  <Card.Title className="d-flex justify-content-center">
-                    <svg
-                      width="64px"
-                      height="64px"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                    >
-                      <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
-                      <g
-                        id="SVGRepo_tracerCarrier"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      ></g>
-                      <g id="SVGRepo_iconCarrier">
-                        {" "}
-                        <path
-                          d="M12 6H12.01M9 20L3 17V4L5 5M9 20L15 17M9 20V14M15 17L21 20V7L19 6M15 17V14M15 6.2C15 7.96731 13.5 9.4 12 11C10.5 9.4 9 7.96731 9 6.2C9 4.43269 10.3431 3 12 3C13.6569 3 15 4.43269 15 6.2Z"
-                          stroke="#000000"
-                          strokeWidth="2"
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                        ></path>{" "}
-                      </g>
-                    </svg>
-                  </Card.Title>
-                  <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
-                    <p className="text-decoration-none text-reset">
-                      International Tour
-                    </p>
-                  </Card.Subtitle>
-                  <Card.Text className="">
-                    <p className="text-dark">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                      Illum temporibus aut commodi nobis, exercitationem aperiam
-                      facilis minus cumque cum repellat.
-                    </p>
-                  </Card.Text>
-                </Card.Body>
-              </Card>
-            </Link>
-          </Col>
-          <Col xs={12} md={6} lg={4} className="mt-3">
-            <Link to="#" className="text-decoration-none">
-              <Card style={{ width: "100%" }}>
-                <Card.Body>
-                  <Card.Title className="d-flex justify-content-center">
-                    <svg
-                      width="64px"
-                      height="64px"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                    >
-                      <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
-                      <g
-                        id="SVGRepo_tracerCarrier"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      ></g>
-                      <g id="SVGRepo_iconCarrier">
-                        {" "}
-                        <path
-                          d="M12 6H12.01M9 20L3 17V4L5 5M9 20L15 17M9 20V14M15 17L21 20V7L19 6M15 17V14M15 6.2C15 7.96731 13.5 9.4 12 11C10.5 9.4 9 7.96731 9 6.2C9 4.43269 10.3431 3 12 3C13.6569 3 15 4.43269 15 6.2Z"
-                          stroke="#000000"
-                          strokeWidth="2"
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                        ></path>{" "}
-                      </g>
-                    </svg>
-                  </Card.Title>
-                  <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
-                    <p className="text-decoration-none text-reset">
-                      International Tour
-                    </p>
-                  </Card.Subtitle>
-                  <Card.Text className="">
-                    <p className="text-dark">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                      Illum temporibus aut commodi nobis, exercitationem aperiam
-                      facilis minus cumque cum repellat.
+                      Security services are dedicated to safeguarding
+                      individuals, properties, and assets, providing a sense of
+                      protection and assurance in various settings. These
+                      services encompass a wide range of measures designed to
+                      prevent, detect, and respond to potential threats or
+                      risks.
                     </p>
                   </Card.Text>
                 </Card.Body>
