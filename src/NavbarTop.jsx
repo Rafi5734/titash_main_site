@@ -80,7 +80,7 @@ const NavbarTop = () => {
               <p className="text-white">titashinfo@gmail.com</p>
             </div>
           </div>
-          <a href="#" className="d-flex">
+          {/* <a href="#" className="d-flex">
             <a className="d-flex">
               <svg
                 viewBox="0 0 24 24"
@@ -155,7 +155,7 @@ const NavbarTop = () => {
               </svg>
               <p className="text-white cursor-pointer">Login</p>
             </a>
-          </a>
+          </a> */}
         </Container>
       </Container>
       <Container fluid className="bg-white">
