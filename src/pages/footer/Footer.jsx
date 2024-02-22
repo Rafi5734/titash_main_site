@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div style={{ backgroundColor: "#333333", color: "white" }}>
       <div className="container pt-5 pb-2">
-        <Container>
+        {/* <Container>
           <Row>
             <Col xs={12} sm={6} md={3} lg={3}>
               <p className="fs-4 fw-bolder">Upcoming Jobs</p>
@@ -470,8 +470,16 @@ const Footer = () => {
             </Col>
           </Row>
           
+        </Container> */}
+        <Container>
+          <p className="text-center">
+            Office Address: Thanthi Tower, 5th Floor, Mirpur-10, Behind Shah Ali
+            Market.
+          </p>
         </Container>
-        <p className="text-center mt-5">copyright - 2024, Titash Service XYZ. All Rights Reserve.</p>
+        <p className="text-center mt-5">
+          copyright - 2024, Titash Service XYZ. All Rights Reserve.
+        </p>
       </div>
     </div>
   );

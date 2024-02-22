@@ -11,6 +11,7 @@ import Team from "../team/Team";
 import LatestNews from "../latestNews/LatestNews";
 import OurClients from "../ourClients/OurClients";
 import NewsLetter from "../newsLetter/NewsLetter";
+import Map from "../map/Map";
 
 const Homepage = () => {
   return (
@@ -136,6 +137,7 @@ const Homepage = () => {
       <LatestNews />
       <OurClients />
       <NewsLetter />
+      <Map/>
     </div>
   );
 };
