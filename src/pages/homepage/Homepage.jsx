@@ -63,7 +63,7 @@ const Homepage = () => {
           />
           <div className="centered">
             <h1 className="fw-bold" style={{ color: "#3268C0" }}>
-              Social network and media marketing.
+              Social media marketing.
             </h1>
             <p className="text-white">
               Unleash the power of social media with our expert-led marketing
