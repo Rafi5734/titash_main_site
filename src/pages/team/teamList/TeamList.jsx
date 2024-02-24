@@ -10,10 +10,10 @@ const TeamList = () => {
             <div data-aos="fade-right">
               <Link to="#" className="text-decoration-none">
                 <Card style={{ width: "100%" }}>
-                  <Card.Body>
+                  <Card.Body className="m-0 p-0">
                     <Card.Title className="d-flex justify-content-center">
                       <img
-                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        src="https://i.ibb.co/JzgC6mp/CEO-sir-image.jpg"
                         alt="employee_img"
                         className="img-fluid"
                       />
@@ -66,10 +66,10 @@ const TeamList = () => {
             <div data-aos="fade-right">
               <Link to="#" className="text-decoration-none">
                 <Card style={{ width: "100%" }}>
-                  <Card.Body>
+                  <Card.Body className="m-0 p-0">
                     <Card.Title className="d-flex justify-content-center">
                       <img
-                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        src="https://i.ibb.co/ZfR38Fp/BF20127-u1.jpg"
                         alt="employee_img"
                         className="img-fluid"
                       />
@@ -122,10 +122,10 @@ const TeamList = () => {
             <div data-aos="fade-right">
               <Link to="#" className="text-decoration-none">
                 <Card style={{ width: "100%" }}>
-                  <Card.Body>
+                  <Card.Body className="m-0 p-0">
                     <Card.Title className="d-flex justify-content-center">
                       <img
-                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        src="https://i.ibb.co/Qfd5B72/shihab-employee-2.jpg"
                         alt="employee_img"
                         className="img-fluid"
                       />
@@ -206,10 +206,10 @@ const TeamList = () => {
             <div data-aos="fade-right">
               <Link to="#" className="text-decoration-none">
                 <Card style={{ width: "100%" }}>
-                  <Card.Body>
+                  <Card.Body className="m-0 p-0">
                     <Card.Title className="d-flex justify-content-center">
                       <img
-                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        src="https://i.ibb.co/M5x9jsM/busra-employee-3.jpg"
                         alt="employee_img"
                         className="img-fluid"
                       />
