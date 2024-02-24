@@ -56,7 +56,7 @@ const LatestNewsList = () => {
                         className="img-fluid"
                       />
                     </Card.Title>
-                    <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
+                    <Card.Subtitle className="mb-0 text-muted text-center fs-5 ">
                       <p className="text-decoration-none text-reset">
                         আরেকজন নিয়োগপ্রাপ্ত ক্লায়েন্ট
                       </p>
