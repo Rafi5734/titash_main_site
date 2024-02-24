@@ -1,7 +1,4 @@
 import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
-import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <div style={{ backgroundColor: "#333333", color: "white" }}>
@@ -473,12 +470,12 @@ const Footer = () => {
         </Container> */}
         <Container>
           <p className="text-center">
-            Office Address: Thanthi Tower, 5th Floor, Mirpur-10, Behind Shah Ali
-            Market.
+            Office Address: Shondhani Tower, 5th Floor, Mirpur-10, 2 number
+            road, behind the Shah Ali market.
           </p>
         </Container>
         <p className="text-center mt-5">
-          copyright - 2024, Titash Service XYZ. All Rights Reserve.
+          copyright - 2024, Titash Services A2Z Private Limited. All Rights Reserve.
         </p>
       </div>
     </div>
