@@ -153,7 +153,7 @@ const TeamList = () => {
                   <Card.Body>
                     <Card.Title className="d-flex justify-content-center">
                       <img
-                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        src="https://i.ibb.co/jTCgKRT/Whats-App-Image-2024-02-25-at-3-45-50-PM.jpg"
                         alt="employee_img"
                         className="img-fluid"
                       />
@@ -321,7 +321,7 @@ const TeamList = () => {
                   <Card.Body>
                     <Card.Title className="d-flex justify-content-center">
                       <img
-                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        src="https://i.ibb.co/CvkQQkr/riya-image.jpg"
                         alt="employee_img"
                         className="img-fluid"
                       />
