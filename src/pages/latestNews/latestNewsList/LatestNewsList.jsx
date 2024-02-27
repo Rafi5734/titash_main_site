@@ -131,7 +131,7 @@ const LatestNewsList = () => {
                     </Card.Title>
                     <Card.Subtitle className="mb-0 text-muted text-center fs-5 ">
                       <p className="text-decoration-none text-reset">
-                        নতুন নিয়োগপ্রাপ্ত একজন এমপ্লয়ী
+                        নতুন নিয়োগপ্রাপ্ত একজন ক্লায়েন্ট
                       </p>
                     </Card.Subtitle>
                     <Card.Text className="">
@@ -139,7 +139,7 @@ const LatestNewsList = () => {
                         25 Feb, 2024
                       </p>
                       <p className="text-dark">
-                        মোঃ মোসলেম মিয়া, আমাদের অফিসে নতুন একজন এমপ্লয়ী আজকে
+                        মোঃ মোসলেম মিয়া, আমাদের অফিসে নতুন একজন ক্লায়েন্ট আজকে
                         আমাদের ডিরেক্টর স্যারের কাছ থেকে উনার প্রশংসাপত্র গ্রহণ
                         করসেন। উনি সুনামধণ্য একটি শপিংমল এ সিকিউরিটি গার্ড পসিশন
                         এ আজকে আমাদের মাধ্যমে নিয়োগপ্রাপ্ত হয়েছেন।
