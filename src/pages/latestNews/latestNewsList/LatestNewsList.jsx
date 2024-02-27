@@ -153,6 +153,41 @@ const LatestNewsList = () => {
               </Link>
             </div>
           </Col>
+          <Col xs={12} md={6} lg={3} className="mt-3">
+            <div data-aos="fade-right">
+              <Link to="#" className="text-decoration-none">
+                <Card style={{ width: "100%" }}>
+                  <Card.Body>
+                    <Card.Title className="d-flex justify-content-center">
+                      <img
+                        src="https://i.ibb.co/XDW3KC2/Whats-App-Image-2024-02-27-at-4-39-50-PM.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      />
+                    </Card.Title>
+                    <Card.Subtitle className="mb-0 text-muted text-center fs-5 ">
+                      <p className="text-decoration-none text-reset">
+                        আজকে নতুন নিয়োগপ্রাপ্ত আরেকজন ক্লায়েন্ট
+                      </p>
+                    </Card.Subtitle>
+                    <Card.Text className="">
+                      <p className="text-decoration-none text-reset">
+                        27 Feb, 2024
+                      </p>
+                      <p className="text-dark">
+                        মম ঘোষ, সহ. সুপারভাইজার পদে আজকে আমাদের অফিস থেকে
+                        প্রশংসাপত্র গ্রহণ করে সরাসরি আজকেই উনার কর্মস্থলে জয়েন
+                        করেন।
+                      </p>
+                    </Card.Text>
+                    <div>
+                      <Button variant="primary">Read More</Button>{" "}
+                    </div>
+                  </Card.Body>
+                </Card>
+              </Link>
+            </div>
+          </Col>
         </Row>
       </Container>
     </div>
