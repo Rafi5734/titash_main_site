@@ -68,8 +68,13 @@ const TeamList = () => {
                 <Card style={{ width: "100%" }}>
                   <Card.Body className="m-0 p-0">
                     <Card.Title className="d-flex justify-content-center">
-                      <img
+                      {/* <img
                         src="https://i.ibb.co/ZfR38Fp/BF20127-u1.jpg"
+                        alt="employee_img"
+                        className="img-fluid"
+                      /> */}
+                      <img
+                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
                         alt="employee_img"
                         className="img-fluid"
                       />
