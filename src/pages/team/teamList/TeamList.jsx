@@ -214,18 +214,18 @@ const TeamList = () => {
                   <Card.Body className="m-0 p-0">
                     <Card.Title className="d-flex justify-content-center">
                       <img
-                        src="https://i.ibb.co/M5x9jsM/busra-employee-3.jpg"
+                        src="https://i.ibb.co/s6cLJr4/Whats-App-Image-2024-03-03-at-2-54-01-PM-removebg-preview.png"
                         alt="employee_img"
                         className="img-fluid"
                       />
                     </Card.Title>
                     <Card.Subtitle className="mb-2 text-muted text-center fs-3 ">
                       <p className="text-decoration-none text-reset">
-                        Bushra
+                        Payel
                       </p>
                     </Card.Subtitle>
                     <Card.Text className="">
-                      <p className="text-dark text-center">Call center executive</p>
+                      <p className="text-dark text-center">Social Media Executive</p>
                       <p className="text-dark text-center">
                         Titash Services A2Z Private Limited
                       </p>
