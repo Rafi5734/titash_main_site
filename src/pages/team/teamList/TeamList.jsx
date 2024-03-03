@@ -41,7 +41,7 @@ const TeamList = () => {
                   <Card.Body>
                     <Card.Title className="d-flex justify-content-center">
                       <img
-                        src="https://demo.phpscriptpoint.com/travelfresh/public/uploads/team-member-5-thumb.jpg"
+                        src="https://i.ibb.co/bJw5QtF/Whats-App-Image-2024-03-03-at-5-02-09-PM.jpg"
                         alt="employee_img"
                         className="img-fluid"
                       />
