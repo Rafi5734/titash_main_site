@@ -17,9 +17,9 @@ const Homepage = () => {
   return (
     <div>
       <marquee className="text-danger fw-bold">
-        তিতাশ সার্ভিসেস A-2-Z প্রাইভেট লিমিটেড এ আপনাকে স্বাগতম।{" "}
+        এই কোম্পানির একটা প্রতারক কোম্পানি। মানুষের টাকা মেরে খায়। সবাই সাবধান।
       </marquee>
-      <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
+{/*       <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
         <SwiperSlide className="slider_container">
           <img
             className="slideOne"
@@ -128,16 +128,16 @@ const Homepage = () => {
             </button>
           </div>
         </SwiperSlide>
-      </Swiper>
+      </Swiper> */}
 
-      <Services />
+{/*       <Services />
       <FeaturedServices />
       <Clients />
       <Team />
       <LatestNews />
       <OurClients />
       <NewsLetter />
-      <Map/>
+      <Map/> */}
     </div>
   );
 };
